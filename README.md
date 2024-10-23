@@ -12,7 +12,7 @@ Danny has shared with you **3 key datasets** for this case study:
 #### **Entity Relationship Diagram**
 ![Screenshot 2024-10-23 100428](https://github.com/user-attachments/assets/1a9c4959-93b1-4aa6-ac35-debcdffbddc1)
 
-**Case Study Questions**
+## **Case Study Questions**
 This case study includes solutions to **12 key questions**, providing comprehensive insights into the dataset.
 
 
