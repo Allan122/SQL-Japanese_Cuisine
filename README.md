@@ -15,4 +15,5 @@ Danny has shared with you **3 key datasets** for this case study:
 ## **Case Study Questions**
 This case study includes solutions to **12 key questions**, providing comprehensive insights into the dataset.
 
-
+#### **Tools & Technologies:**
+PostgreSQL (for database management and querying)
